@@ -4,8 +4,6 @@ using System.Text;
 using System.Security.Cryptography;
 using System.Net;
 using System.Net.Sockets;
-using System.Net.Http;
-
 namespace SimpleWebsocket
 {
     public class WebsocketListener

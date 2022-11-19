@@ -2,9 +2,7 @@
 using System.Net.Sockets;
 using System.IO;
 using System.Text;
-using System.Security.Cryptography;
 using System.Threading;
-using System.Net.Http;
 
 
 namespace SimpleWebsocket

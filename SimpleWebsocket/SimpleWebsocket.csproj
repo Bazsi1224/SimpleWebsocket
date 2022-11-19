@@ -12,6 +12,7 @@
     <RepositoryUrl>https://github.com/Bazsi1224/SimpleWebsocket.git</RepositoryUrl>
     <RepositoryType>GIT</RepositoryType>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+
   </PropertyGroup>
 
 </Project>

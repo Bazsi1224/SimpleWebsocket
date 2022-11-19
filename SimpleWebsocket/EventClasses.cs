@@ -11,6 +11,7 @@ namespace SimpleWebsocket
         public string Message { get => _message; }        
         public byte[] Data { get => _data; }
 
+
         public WebsocketMessageRecievedEventArgs( string message )
         {
             _message = message;
@@ -33,7 +34,6 @@ namespace SimpleWebsocket
         {
             _client = client;
         }
-
 
     }
 }
